@@ -1,0 +1,21 @@
+body {
+    font-family: 'Georgia';
+}
+
+div {
+    padding: 10 px;
+    background-color: e6e6fa;
+    border-style: dotted;
+    border-color: 000000
+    
+}
+
+h1, h2, h3 {
+	font-family: 'Helvetica';
+}
+
+a:hover {
+    color: #FF00FF;
+    text-decoration: underline; 
+}
+
