@@ -1,0 +1,38 @@
+body {
+background-color: #CCCCCC;
+	font-family: "Arial";
+    	font-size: 20px;
+    		color:#808066 
+}
+
+.wrapper {
+	margin= 20px auto;
+		background-color: #d0e4fe;
+			width:500 px;
+				
+}
+
+p {
+	padding:25px;
+		line-height: 30px;
+
+}
+
+ul{
+	list-style: none;
+		padding: 0;
+			display: block
+}
+
+ul li{
+	display: block;
+		margin:10px;
+			padding:30px;
+				background-color: #66FF66
+					
+				
+}
+
+nav:hover{
+    color:CC6600;
+}
